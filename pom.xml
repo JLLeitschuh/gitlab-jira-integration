@@ -138,7 +138,7 @@
         <jersey.version>2.21</jersey.version>
 
         <!--test-->
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <!--plugin-->
         <maven-compiler-plugin.version>3.1</maven-compiler-plugin.version>
